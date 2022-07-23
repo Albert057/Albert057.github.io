@@ -5,11 +5,11 @@
   const FRAME_RATE = 100
   const PARTICLE_NUM = 3000
   const RADIUS = Math.PI * 2
-  const CANVASWIDTH = 1300
-  const CANVASHEIGHT = 150
+  const CANVASWIDTH = 1300 *2
+  const CANVASHEIGHT = 150 *2
   const CANVASID = 'canvas'
 
-  let texts = ['WALKING IN THE STARRY NIGHT','YOU ARE MY MOONLIGHT','Li Liu Hong','I LOVE YOU']
+  let texts = ['WALKING IN THE STARRY NIGHT','YOU ARE MY MOONLIGHT','姜姜','I LOVE YOU']
   //????????????????????????
 
   let canvas,
